@@ -3,7 +3,7 @@
 
 ## Mô tả project:
 
-Đây là project xây dựng một chiếc đồng hồ kim chạy theo thời gian thực.
+Đây là project xây dựng một chiếc đồng hồ kim chạy theo thời gian thực, project này chỉ áp dụng những kiến thức cơ bản như: `HTML`, `CSS`, `Javascript`, `Git` và `Github`.
 
 ## Các chức năng:
 
